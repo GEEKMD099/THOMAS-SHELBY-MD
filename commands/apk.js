@@ -41,7 +41,7 @@ let result = await download(text)
         },
         mimetype: "application/vnd.android.package-archive",
         fileName: getname,
-        caption: `🦇*SHELBY-MD*`,
+        caption: `🔥*SHELBY-MD*`,
     }, {
         quoted: citel,
     });
