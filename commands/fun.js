@@ -79,7 +79,7 @@ cmd({
 ✻ ═════ •❅• ═════ ✼
 ║ *🗂Content:* ${quoo.data.quote.body}
 ║ *👤Author:* ${quoo.data.quote.author}
-║    🦇BAT-BOT🤖
+║    SHELBY-BOT
 ✻ ═════ •❅• ═════ ✼ `
 return citel.reply(replyf)
     }
