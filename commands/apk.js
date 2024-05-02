@@ -24,7 +24,7 @@ let result = await download(text)
             url: icon,
         }, 
         caption: `
-        \n ✧ *BAT-MD  DOWNLOADER*
+        \n ✧ *SHELBY-MD  DOWNLOADER*
         \n━━━━━━━━━━━━━━━━━━
         
         \n 📚 *ᴀᴘᴘ ɴᴀᴍᴇ:* ${getname}
@@ -41,7 +41,7 @@ let result = await download(text)
         },
         mimetype: "application/vnd.android.package-archive",
         fileName: getname,
-        caption: `🦇*BAT-MD*`,
+        caption: `🦇*SHELBY-MD*`,
     }, {
         quoted: citel,
     });
