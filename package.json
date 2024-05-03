@@ -1,15 +1,15 @@
 {
-  "name": "BAT-MD",
+  "name": "SHELBY-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Excel.",
+  "description": "Multi device whatsapp bot by Shelby.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name BAT",
-    "stop": "pm2 stop BAT"
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name SHELBY",
+    "stop": "pm2 stop SHELBY"
   },
-  "author": "Xcelsama",
+  "author": "Shelbysama",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EX-BOTS/BAT-MD.git"
+    "url": "git+https://github.com/GEKMD099/THOMAS-SHELBY-MD"
   },
   "bugs": {
     "url": "https://github.com/EX-BOTS/BAT-MD/issues"
   },
-  "homepage": "https://github.com/EX-BOTS/BAT-MD#readme"
+  "homepage": "https://github.com/GERKMD099/THOMAS-SHELBY-MD#readme"
 }
