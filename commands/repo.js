@@ -12,7 +12,7 @@ cmd({
             pattern: "repo",           
             desc: "(source code).",
             category: "general",
-            react: "♻️",
+            react: "🍷",
             filename: __filename,
             use: '<text>',
 
@@ -40,20 +40,20 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/2692bfbd409f7dae2e79b.jpg',
+                    url: 'https://telegra.ph/file/607d631d85d9a1bab56a7.jpg',
                 },
 
                 caption: `
 ╭────《𝐑𝐄𝐏𝐎》─────❖
 ╭──────────────❖
-│⭐𝐒𝐓𝐀𝐑𝐒:- 𝐔𝐧𝐝𝐞𝐟𝐢𝐧𝐞𝐝
-│♻️𝐒𝐂𝐀𝐍-𝐐𝐑:- https://bat-bot-qr-34b45414eefe.herokuapp.com
+│🍷𝐒𝐓𝐀𝐑𝐒:- 𝐔𝐧𝐝𝐞𝐟𝐢𝐧𝐞𝐝
+│🍷𝐒𝐂𝐀𝐍-𝐐𝐑:- https://geek-qr-c6ccf7b7583e.herokuapp.com/
 │ 𝐑𝐄𝐏𝐎:-https://github.com/EX-BOTS/BAT-MD
 │ 𝙁𝙊𝙍𝙆:-https://github.com/EX-BOTS/BAT-MD/fork
-│ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡:-https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
-│ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩:- https://chat.whatsapp.com/Lq8yd8FRqEZ5pc3oXznliR
+│ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡:-https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a
+│ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩:- https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo
 ╰───────────────❖
-©𝙀𝙓𝘾𝙀𝙇:-𝘽𝘼𝙏-𝘽𝙊𝙏
+©𝙀𝙓𝘾𝙀𝙇:-𝑺𝑯𝑬𝑳𝑩𝒀-𝘽𝙊𝙏
 `,
 
                 footer: tlang().footer,
