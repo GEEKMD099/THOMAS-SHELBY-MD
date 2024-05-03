@@ -40,72 +40,72 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/2692bfbd409f7dae2e79b.jpg',
+                    url: 'https://telegra.ph/file/0e3e3b9fe3529c46e0fda.jpg',
                 },
 
                 caption: `
 
-*⦁──🦇𝘽𝘼𝙏-𝘽𝙊𝙏-𝙎𝙀𝙏𝙏𝙄𝙉𝙂 📍──⦁*
+*⦁──🦇SHELBY-𝘽𝙊𝙏-𝙎𝙀𝙏𝙏𝙄𝙉𝙂 📍──⦁*
 
-1🦇➣ To put Antilink type :
+1🍷➣ To put Antilink type :
 Eg:- *setvar ANTILINK:false
 
-2🦇➣ To on/off Auto reaction type :
+2🍷➣ To on/off Auto reaction type :
 Eg:- *setvar AUTO_REACTION:false/true
 
-3🦇➣ To on/off Auto read status type : 
+3🍷➣ To on/off Auto read status type : 
 Eg:- *setvar AUTO_READ_STATUS:false/true
 
-4🦇➣ To on/off Auto status save type :
+4🍷➣ To on/off Auto status save type :
 Eg:- *setvar AUTO_STATUS_SAVER:false/true
 
-5🦇➣ To on/off heroku type :
+5🍷➣ To on/off heroku type :
 Eg:- *setvar heroku:false/true
 
-6🦇➣ To put Heroku api key type :
+6🍷➣ To put Heroku api key type :
 Eg:- *setvar HEROKU_API_KEY:put api key
 
-7🦇➣ To put Heroku app name type :
+7🍷➣ To put Heroku app name type :
 Eg:- *setvar HEROKU_APP_NAME:put app name
 
-8🦇➣ To on/off Auto reaction type :
+8🍷➣ To on/off Auto reaction type :
 Eg:- *setvar HEROKU_API_KEY:put api key
 
-9🦇➣ To on/off Auto reaction type :
+9🍷➣ To on/off Auto reaction type :
 Eg:- *setvar HEROKU_API_KEY:put api key
 
-10🦇➣ To on/off Level up message type :
+10🍷➣ To on/off Level up message type :
 Eg:- *setvar LEVEL_UP_MESSAGE:false/true
 
-11🦇➣ To put Mongodb url type :
+11🍷➣ To put Mongodb url type :
 Eg:- *setvar MONGODB_URI:put mongodb url
 
-12🦇➣ To put Open api key type :
+12🍷➣ To put Open api key type :
 Eg:- *setvar OPENAI_API_KEY:put open api key
 
-13🦇➣ To put Owner name type :
+13🍷➣ To put Owner name type :
 Eg:- *setvar OWNER_NUMBER:put any name
 
-14🦇➣ To put Owner number type :
-Eg:- *setvar OWNER_NUMBER:234xxxxxxxx
+14🍷➣ To put Owner number type :
+Eg:- *setvar OWNER_NUMBER:237xxxxxxxx
 
-15🦇➣ To put Pack info type :
+15🍷➣ To put Pack info type :
 Eg:- *setvar PACK_INFO:put any name
 
 16➣ To put prefix type :
 Eg:- *setvar PREFIX:.
 
-17🦇➣ To on/off Auto Read message type :
+17🍷➣ To on/off Auto Read message type :
 Eg:- *setvar READ_MESSAGE:false/true
 
-18🦇➣ To put thumb image type :
+18🍷➣ To put thumb image type :
 Eg:- *set THUMB_IMAGE:put image url
 
-19🦇➣ To public/privert  type :
+19🍷➣ To public/privert  type :
 Eg:- *setvar WORKTYPE:public/private
 
 
-©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 𝘽𝘼𝙏-𝘽𝙊𝙏
+©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 𝑺𝑯𝑬𝑳𝑩𝒀-𝘽𝙊𝙏
 `,
 
                 footer: tlang().footer,
