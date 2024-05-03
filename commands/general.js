@@ -136,16 +136,16 @@ cmd({
         timestampe = speed();
         latensie = speed() - timestampe;
         let ter = `
-ㅤ     ╞═════𖠁BAT-BOT𖠁═════╡
+ㅤ     ╞═════𖠁SHELBY-BOT𖠁═════╡
 
 ╰─➤｡･:*˚:✧｡ *${tlang().title}* ｡･:*˚:✧｡
-╰─➤*🌟Description:* A WhatsApp bot with rich features, built in NodeJs to make your WhatsApp enjoyable.
-╰─➤*⚡️Speed:* ${latensie.toFixed(4)} ms
+╰─➤*🍷Description:* A WhatsApp bot with rich features, built in NodeJs to make your WhatsApp enjoyable.
+╰─➤*🍷Speed:* ${latensie.toFixed(4)} ms
 ╰─➤*⏱Uptime:* ${runtime(process.uptime())}
-╰─➤*🌟Version:* 10.0.0
-╰─➤*👤Owner:*  ${Config.ownername}
+╰─➤*🍷Version:* 10.0.0
+╰─➤*🍷Owner:*  ${Config.ownername}
 ╰─➤*Powered by ${tlang().title}*
-°୭̥ ❁ ───────────────────────── .°୭̥ ❁ `;
+°୭̥ 🍷 ───────────────────────── .°🍷 ❁ `;
         let buttonMessaged = {
             image: {
                 url: await botpic(),
@@ -183,14 +183,13 @@ cmd({
     async(Void, citel) => {
         let { data } = await axios.get('https://api.github.com/repos/EX-BOTS/BAT-MD')
         let cap = `Hey ${citel.pushName}\n
-*⭐ TOTᗩᒪ ՏTᗩᖇՏ:* ${data.stargazers_count} stars
-*🍽️ ᖴOᖇKՏ:* ${data.forks_count} forks
-*🍁 ᖇᗴᑭO:*https://github.com/EX-BOTS/BAT-MD
-*⚔️ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/Lq8yd8FRqEZ5pc3oXznliR
-*📡ᑭᑌᗷᒪIᑕ ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
-*🔍Տᑕᗩᑎ ᑫᖇ:* https://bat-bot-qr-34b45414eefe.herokuapp.com
-*💻ᑕᕼᗩᑎᑎᗴᒪ ᒪIᑎK:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
-*⚙️DᗴᑭloY YOᑌᖇ Oᗯᑎ:*-https://dashboard.heroku.com/new?template=https://github.com/EX-BOTS/BAT-MD`
+*🔪 𝑻𝑶𝑻𝑨𝑳 𝑺𝑴𝑶𝑲𝑬:* ${data.stargazers_count} stars
+*🍷 𝒇𝒐𝒓𝒌𝒔:* ${data.forks_count} forks
+*🍷 𝒓𝒆𝒑𝒐:*https://github.com/GEEKMD099/THOMAS-SHELBY-MD
+*🍷𝒈𝒓𝒐𝒖𝒑:* https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo
+*🔍𝒔𝒄𝒂𝒏 𝒒𝒓:* https://geek-qr-c6ccf7b7583e.herokuapp.com/
+*𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒍𝒊n𝒌:* https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a
+*⚙️𝑫𝑬𝑷𝑳𝑶𝒀 𝒀𝑶𝑼𝑹 𝑶𝑾𝑵:*-https://dashboard.heroku.com/new?template=https://github.com/GEEKMD099/THOMAS-SHELBY-MD`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -226,13 +225,13 @@ cmd({
         timestampe = speed();
         latensie = speed() - timestampe;
         let ter = `
-🔰 *${tlang().title}* 🔰
-𝐎𝐖𝐍𝐄𝐑:-+2347045035241
-*🌟Description:* 𝙰 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚠𝚒𝚝𝚑 𝚛𝚒𝚌𝚑 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜, 𝚋𝚞𝚒𝚕𝚝 𝚒𝚗 𝙽𝚘𝚍𝚎𝙹𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚎𝚗𝚓𝚘𝚢𝚊𝚋𝚕𝚎...𝚋𝚢 𝙴𝚡𝚌𝚎𝚕.
-*⚡Speed:* ${latensie.toFixed(4)} ms
-*🚦Uptime:* ${runtime(process.uptime())}
-*🕸Version:* 0.0.7
-*👤Owner:*  ${Config.ownername}
+🔪 *${tlang().title}* 🔪
+𝐎𝐖𝐍𝐄𝐑:-+237620857930
+*🍺Description:* 𝙰 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚠𝚒𝚝𝚑 𝚛𝚒𝚌𝚑 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜, 𝚋𝚞𝚒𝚕𝚝 𝚒𝚗 𝙽𝚘𝚍𝚎𝙹𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚎𝚗𝚓𝚘𝚢𝚊𝚋𝚕𝚎...𝚋𝚢 THOMAS-FAN.
+*🍺Speed:* ${latensie.toFixed(4)} ms
+*🍺Uptime:* ${runtime(process.uptime())}
+*🍺Version:* 0.0.7
+*🍺Owner:*  ${Config.ownername}
 *Powered by ${tlang().title}*
 `;
         let buttonMessaged = {
@@ -271,7 +270,7 @@ async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
 let str="*All available theme*"
-str+=`  1.BAT\n\n this is the theme of BAT-BOT.\_Reply ${prefix}setvar THEME:BAT`
+str+=`  1.BAT\n\n this is the theme of SHELBY-BOT.\_Reply ${prefix}setvar THEME:SHELBY`
 return citel.reply(str)
 
 }
