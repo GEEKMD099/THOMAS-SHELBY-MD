@@ -1,1 +1,64 @@
+{
+    "_JSON_": true,
+    "AUTHOR": "",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+    "updater": {
+    "UPDATE": " -     ",
+    "NEW_UPDATE": "        !\n\n*Changes:*\n",
+    "UPDATED_LOCAL": "Fresh Updates Installed!"
+    },
+    "global": {
+    "botName": "   ",
 
+    "body": " ",
+    "greet2" : "",
+    "pic1": "https://telegra.ph/file/aa8160e83857630cdd5c7.mp4",
+    "pic2": "https://telegra.ph/file/c58e6cc0ba11e0a5790ef.jpg",
+    "pic3": "https://telegra.ph/file/aada17dad8a5998fab5f5.jpg",
+    "pic4": "https://telegra.ph/file/aada17dad8a5998fab5f5.jpg",
+    "pic5": " ",
+    "pic6": "https://telegra.ph/file/2cf1490d1ad65b23e5ffb.jpg",
+    "pic7": "https://telegra.ph/file/45af8914d85fde7309376.jpg",
+    "gif1": "https://telegra.ph/file/aa8160e83857630cdd5c7.gif",
+    "gif2": "https://telegra.ph/file/2493ccea6aa49b02d5a13.gif",
+    "gif3": "https://tenor.com/SH2r.gif",
+    "gif4": "https://telegra.ph/file/aa8160e83857630cdd5c7.gif",
+    "gif5": "https://telegra.ph/file/2493ccea6aa49b02d5a13.gif",
+    "gif6": "https://telegra.ph/file/2493ccea6aa49b02d5a13.gif",
+    "gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+    "greet" : ",",
+    "dotbody" : " '   ’ .",
+    "promote": "      ",
+    "pmallow": "     \n*    .*\n     .\n   .\n\n_      ......_",
+    "pmblock": "❌ Blocked*\n\n '    .\n\n _ ℜ  _",
+    "pmwarn": "* \n '    '   You have ${checkPermit.times} warning(s).\n\n * ᑭOᗯᗴᖇᗴᗪ ᗷY *",
+    "permited": "Hi* ${tname} Sir*\n\n ᑎOᗯ YOᑌᖇ ᗩᖇᗴ ᑭᗴᖇᗰITTᗴᗪ ᗷY  TO ᑭᗰ ᑎOᗯ .\n\n ᑭOᗯᗴᖇᗴᗪ ᗷY ",
+    "revoked" : "Hii ${tname} ՏIᖇ\n\nYOᑌᖇ ᑭᗰ ᑭᗴᖇᗰIT ᕼᗩՏ ᗷᗴᗴᑎ ᖇᗴᐯOKᗴᗪ.\n\n ᑭOᗯᗴᖇᗴᗪ ᗷY  ",
+    "demote": "YOᑌ ᗩᖇᗴ ᑎOT ᗯOᖇTᕼY ᒪIKᗴ I IᗰᗩᘜIᑎᗴᗪ",
+    "antlink": "ᒪIᑎK ᗪᗴTᗴᑕTᗴᗪ .\n*YOᑌᖇ ᗯᗴᖇᗴ YOᑌ ᗷᗴᒪOᑎᘜ at ᗩᖇKᕼᗩᗰ ᗩՏYᒪᑌᗰ",
+    "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*  *",
+    "mention": " Please mention any user Onii-Chan",
+    "title": "",
+    "footer": "ᗷᖇᑌᑕᗴ",
+    "by": "Made by: CitelVoid",
+    "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+    "success": "ՏᑌᑕᗴՏՏ ✓",
+    "dot": "ᕼᗴᒪᒪO, ᗯᕼY ᗪOᑎ'T YOᑌ TᖇY *ᕼᗴᒪᑭ",
+    "couple_male": "ᗷᗩTՏY",
+    "couple_female": "ᗷᗩTՏY",
+    "admin": "ℎ      ⚠️!",
+    "botAdmin": "     .❗",
+    "owner": "       ⚠️",
+    "group": "     ❗",
+    "private": "        ⚠️",
+    "bot": "       ⚠️",
+    "wait": "  ✅"
+    },
+    "error": {
+    "text": "❎Task Failed"
+    }
+    }
+    }
+      
