@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name:- bat-Md
- * @author : Xcelsama 
- * @description :Xcelsama,A Multi-functional whatsapp bot.
+ * @project_name:- shelby-Md
+ * @author : Shelby 
+ * @description :Shelby,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: Secktor-Support*\n*Group Link:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m`,
+            caption: `*Group Name: Secktor-Support*\n*Group Link:* https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a`,
         });
 
     }
@@ -168,13 +168,13 @@ cmd({
         if (!isAdmins) return citel.reply(tlang().admin);
 
         let textt = `
-══✪〘   *Tag All*   〙✪══
+══🍷〘   *Tag All*   〙🍷══
 
-➲ *Message :* ${text ? text : "blank"}\n\n
-➲ *Author:* ${citel.pushName} 🔖
+◦➛ *Message :* ${text ? text : "blank"}\n\n
+◦➛ *Author:* ${citel.pushName} 🔖
 `
         for (let mem of participants) {
-            textt += `📍 @${mem.id.split("@")[0]}\n`;
+            textt += `🍷 @${mem.id.split("@")[0]}\n`;
         }
         Void.sendMessage(citel.chat, {
             text: textt,
@@ -201,7 +201,7 @@ cmd({
             teks1 = `\n\n*User* : @${
     citel.sender.split("@")[0]
   }\n*Request* : ${text}`;
-            teks2 = `\n\n*Hii ${pushname},You request has been forwarded to Xcelsama*.\n*Please wait.......*`;
+            teks2 = `\n\n*Hii ${pushname},You request has been forwarded to Shelbysama*.\n*Please wait.......*`;
             for (let i of owner) {
                 Void.sendMessage(i + "@s.whatsapp.net", {
                     text: textt + teks1,
@@ -459,7 +459,7 @@ cmd({
             }
             let disc = citel.sender.substring(3, 7);
             let textr = '';
-            textr += `*Hii ${tlang().greet} ,🌟 ${citel.pushName}∆${disc}'s* Exp\n\n`;
+            textr += `*Hii ${tlang().greet} , 🍷${citel.pushName}∆${disc}'s* Exp\n\n`;
             let ttms = `${userq.xp}` / 8;
             textr += `*🌟Role*: ${role}\n*🟢Exp*: ${userq.xp} / ${Levels.xpFor(
     userq.level + 1
@@ -862,10 +862,10 @@ cmd({
             console.log(h)
             teskd += `*There are total ${h.length}  warnings.*\n`
             for (let i = 0; i < h.length; i++) {
-                teskd += `*${i+1}*\n╭─────────────◆\n│ *🍁In Group:-* ${h[i].group}\n`
+                teskd += `*${i+1}*\n╭─────────────🍷\n│ *🍁In Group:-* ${h[i].group}\n`
                 teskd += `│ *🔰Time:-* ${h[i].date}\n`
                 teskd += `│ *⚠️Warned by:-* ${h[i].warnedby}\n`
-                teskd += `│ _📍Reason: ${h[i].reason}_\n╰─────────────◆\n\n`
+                teskd += `│ _📍Reason: ${h[i].reason}_\n╰─────────────🍷\n\n`
             }
             citel.reply(teskd)
         }
